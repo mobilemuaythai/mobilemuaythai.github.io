@@ -1,5 +1,5 @@
 ---
-title: Mobile Muay Thai: intense workouts in your home or gym by Muay Thai pros
+title: Mobile Muay Thai - intense workouts in your home or gym by Muay Thai pros
 ---
 
 ## Why Mobile Muay Thai?
