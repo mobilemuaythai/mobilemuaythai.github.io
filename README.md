@@ -1,10 +1,13 @@
+---
+title: Mobile Muay Thai: intense workouts in your home or gym by Muay Thai pros
+---
 
 ## Why Mobile Muay Thai?
-- More cardio than cross fit
-- More flexibility than yoga
-- More authenticity than boxersize
-- More self defence than Taikwando
-- Less intimidating that a Muay Thai Gym - We come to you 
+- More cardio than Crossfit
+- More flexibility than Yoga
+- More authenticity than "Boxercise"
+- More self-defence than Tae Kwon-do
+- Less intimidating than a Muay Thai Gym
 - English or Thai instructors
 
 ## Pricing
@@ -14,10 +17,11 @@
 - includes transport to you (within a 5km radias of Sathorn Bangkok)
 
 ## What's included
-- 1 hour session includes
+- 1 hour session with
    - warm up
-   - Muay thai rounds
+   - High intensity and speed Muay thai rounds
    - core strength
+   - conditioning
    - stretching
 - All equipment provided
 - Requires only a 2x3m area. Lounge rooms, Gym or outside space.
