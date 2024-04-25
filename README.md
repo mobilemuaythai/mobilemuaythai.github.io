@@ -1,6 +1,4 @@
----
-title: Mobile Muay Thai - intense workouts in your home or gym by Muay Thai pros
----
+# Mobile Muay Thai - intense workouts in your home or gym by Muay Thai pros
 
 ## Why Mobile Muay Thai?
 - More cardio than Crossfit
